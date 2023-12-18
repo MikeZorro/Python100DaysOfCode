@@ -1,0 +1,5 @@
+s = input("Hello, please write a 2 digit number:\n")
+firstDigit = int(s[0])
+secondDigit = int(s[1])
+sum = str(firstDigit + secondDigit)
+print("sum of numbers is: " +sum)
